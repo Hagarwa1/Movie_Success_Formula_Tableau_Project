@@ -7,7 +7,7 @@ Data Description: The dataset is large containing 433900+ records and 29 feature
 Tasks Performed:
 1. Data cleaning and transformation using Python (Pandas, NumPy)
 2. Dashboard UI Mockups made through Figma
-3. Dashboard developemnt using Tableau
+3. Dashboard development using Tableau
 
 Key Features:
 1. Global View: A choropleth map showing box office contributions by country.
